@@ -1,1 +1,2 @@
 echo "Main branch change"
+echo "feature2 - line 1"
